@@ -1,4 +1,4 @@
-#all_space_body {
+.all_space_body {
 	background-color: #dedede;
 }
 
@@ -54,7 +54,7 @@
 	border-color: red;
 }
 
-#text_message {
+.text_message {
 	width: 700px;
 	margin: 20px;
 	font-size: 18px;
